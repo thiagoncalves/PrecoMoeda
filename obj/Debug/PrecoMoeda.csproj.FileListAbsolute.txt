@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Funcoes\PrecoMoeda\bin\Debug\PrecoMoeda.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Funcoes\PrecoMoeda\bin\Debug\PrecoMoeda.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Funcoes\PrecoMoeda\bin\Debug\PrecoMoeda.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Funcoes\PrecoMoeda\obj\Debug\PrecoMoeda.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Funcoes\PrecoMoeda\obj\Debug\PrecoMoeda.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Funcoes\PrecoMoeda\obj\Debug\PrecoMoeda.pdb
